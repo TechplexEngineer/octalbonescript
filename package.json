@@ -28,7 +28,7 @@
     "debug": "2.1.x",
     "verror": "1.6.x",
     "shelljs": "0.3.x",
-    "serialport": "1.4.x",
+    "serialport": "6.0.0",
     "epoll": "0.1.x"
   },
   "devDependencies": {
